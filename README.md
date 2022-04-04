@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quyumkehinde
-- 👀 I’m interested in backend development and code arhitecture design. 
+- 👀 I’m interested in backend development and systems architecture design. 
 - 🌱 I’m currently learning Haskell.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach me via [Linkedin](https://linkedin.com/in/quyumkehinde) or [Twitter](https://twitter.com/quyumkehinde).
