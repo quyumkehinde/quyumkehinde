@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quyum Kehinde
-- 👀 I’m interested in backend development. 
+- 👀 I’m interested in large-scale and distributed systems. 
 - 🌱 I’m currently learning Haskell.
-- 💞️ I’m looking to collaborate on open source projects.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 You can reach me via [Linkedin](https://linkedin.com/in/quyumkehinde) or [Twitter](https://twitter.com/quyum_kehinde).
 
 <!---
